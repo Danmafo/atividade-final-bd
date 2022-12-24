@@ -1,0 +1,2 @@
+INSERT INTO CONTATOS(nome, numero_celular, email) VALUES ('Daniel Fonseca', '(91)911111111', 'daniel.fonseca@email.com');
+INSERT INTO CONTATOS(nome, numero_celular, email) VALUES ('Agenor Moreira', '(91)922222222', 'agenor.moreira@email.com');
