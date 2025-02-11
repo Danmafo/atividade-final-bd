@@ -1,7 +1,7 @@
 # atividade-final-bd
 API para Atividade Final da discplina de Aplicação de Banco de Dados
 
-Projeto utiliza Java 18 e Spring v3.0.1
+Projeto utiliza Java 17 e Spring v3.0.1
 
 Para rodar:
 
